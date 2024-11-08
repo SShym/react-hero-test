@@ -62,19 +62,17 @@ The backend uses **MongoDB** to store and manage hero data. The data is managed 
    ```env
    npm install
     ```
-3. Start the client: nodemon
+3. Start the client: npm start
    ```env
    npm start
     ```
-Start the client: npm start
-
 ### Server Installation & Run
 1. Navigate to the `server` directory.
 2. Install dependencies:
    ```env
    npm install
     ```
-3. Start the client: nodemon
+3. Start the server: nodemon
    ```env
    nodemon
     ```
