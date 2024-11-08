@@ -68,7 +68,7 @@ The backend uses **MongoDB** to store and manage hero data. The data is managed 
     ```
 Start the client: npm start
 
-### Client Installation & Run
+### Server Installation & Run
 1. Navigate to the `server` directory.
 2. Install dependencies:
    ```env
