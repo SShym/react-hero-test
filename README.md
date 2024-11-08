@@ -62,7 +62,7 @@ The backend uses **MongoDB** to store and manage hero data. The data is managed 
    ```env
    npm install
     ```
-3. Start the client: npm start
+3. Start the client:
    ```env
    npm start
     ```
@@ -72,7 +72,7 @@ The backend uses **MongoDB** to store and manage hero data. The data is managed 
    ```env
    npm install
     ```
-3. Start the server: nodemon
+3. Start the server:
    ```env
    nodemon
     ```
