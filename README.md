@@ -2,6 +2,10 @@
 
 This is a responsive React application that allows users to view a list of heroes on the main page, navigate to a specific hero's page, and perform actions such as deleting, editing, or adding a new hero. The menu enables customization of specific text fields and pictures for each hero. Images are stored in a simple base64 string format, omitting the need for third-party storage services like Cloudinary to simplify the app’s design. Tailwind CSS is used for the UI, and the server side is powered by Express.js, MongoDB, and Mongoose.
 
+### Link: [Live Demo](https://react-toi.netlify.app/) 
+
+### Note: When visiting the site after some inactivity, please wait 30-60 seconds for the hosting to initialize.
+
 <p align="center">  
    <img src="https://github.com/user-attachments/assets/12f6600f-e7da-47bb-b0d7-4948a6b79eb2" alt="Screenshot_1"> 
 </p>
@@ -76,12 +80,6 @@ Start the client: npm start
     ```
 
 <br/>
-
-Create a .env file for the MongoDB connection. Start the server using nodemon for automatic restarts during development:
-
-### Link: [Live Demo](https://react-toi.netlify.app/) 
-
-### Note: When visiting the site after some inactivity, please wait 30-60 seconds for the hosting to initialize.
 
 <p align="center"> 
    <img src="https://github.com/user-attachments/assets/6655d4a7-ee00-4746-9cdf-968b514c1cf3" alt="Screenshot_7"> 
